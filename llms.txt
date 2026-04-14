@@ -5,11 +5,12 @@
 tampabankruptcymill.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Tampa Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://tampabankruptcymill.com/
 - Chapter 13 Bankruptcy Mills in Tampa: Red Flags and What to Watch For: https://tampabankruptcymill.com/chapter-13-tampa.html
 - Chapter 7 Bankruptcy in Tampa: Costs, Timeline and What to Know: https://tampabankruptcymill.com/chapter-7-tampa.html
 - How to Check Your Tampa Bankruptcy Attorney's Track Record: https://tampabankruptcymill.com/how-to-check.html
+- Tampa Bankruptcy Mill: Warning Signs and What the Court Data Shows: https://tampabankruptcymill.com/
 - 5 Warning Signs of a Bankruptcy Mill in Tampa: https://tampabankruptcymill.com/warning-signs.html
+- Privacy Policy: https://tampabankruptcymill.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

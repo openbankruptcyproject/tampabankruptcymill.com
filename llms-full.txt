@@ -6,6 +6,543 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
+## Chapter 13 Bankruptcy Mills in Tampa: Red Flags and What to Watch For
+Source: https://tampabankruptcymill.com/chapter-13-tampa.html
+
+Skip to main content
+
+tampabankruptcymill.com
+☰
+
+Home
+Chapter 13 Data
+Chapter 7 Data
+How to Check
+Warning Signs
+Discharge Screener
+Research
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Chapter 13 - M.D. Fla.
+
+Chapter 13 Bankruptcy Mills in Tampa:
+Red Flags and What to Watch For
+
+Chapter 13 is where bankruptcy mills do the most damage. A 3-5 year repayment plan means years of payments, and if the case is dismissed, you walk away with nothing. Here is what to watch for in Tampa.
+
+Home›Chapter 13 Bankruptcy Mills in Tampa: Red Flags and What to Watch For | tampabankruptcymill.com›Chapter 13 Bankruptcy Mills in Tampa:Red Flags and What to Watch For
+
+Why Chapter 13 Is Where Mills Thrive
+
+Chapter 13 bankruptcy requires a debtor to make monthly payments over 3 to 5 years. Attorney fees are typically paid through the plan, meaning the attorney gets paid even if the case is ultimately dismissed. This fee structure creates a perverse incentive: the attorney profits from filing the case, regardless of whether the client ever receives a discharge.
+
+Tampa's Chapter 13 market, like Miami's, features significant attorney concentration. The Middle District of Florida's multiple divisions create local sub-markets where a small number of firms dominate consumer filings. Dismissal rates across the district vary by division, but the Tampa division has drawn particular attention for high-volume practices.
+
+The "filed to fail" pattern: When an attorney files a Chapter 13 plan that is unlikely to succeed, the debtor still pays attorney fees, the attorney still earns their fee, and the client bears the full cost of failure. Identifying this pattern requires comparing individual attorney dismissal rates against the court average.
+
+Chapter 13 Red Flags in Tampa
+
+Based on patterns observed across federal bankruptcy courts, here are specific warning signs that your Tampa Chapter 13 attorney may be operating as a mill:
+
+1. You never met with the attorney before filing
+
+If your initial consultation was entirely with a paralegal or intake coordinator, and the attorney's first involvement was signing the petition, that is a red flag. The attorney has a duty to review your financial situation personally and ensure the filing is appropriate.
+
+2. Your plan was filed with no discussion of terms
+
+A Chapter 13 plan should reflect your specific financial situation - your income, expenses, debts, and goals. If you were never asked about your monthly expenses, your vehicle needs, your income stability, or your long-term financial goals, the plan may be a template rather than a tailored document.
+
+3. Monthly Operating Reports are late or missing
+
+In some cases, Monthly Operating Reports (MORs) are required. Chronic failure to file MORs is a strong indicator of attorney disengagement. Ask your attorney whether your case requires MORs and whether they are current.
+
+4. You cannot reach your attorney
+
+If your calls go to voicemail, your emails go unanswered for days, and your only contact is with staff members who cannot answer substantive legal questions, your case may not be receiving adequate attention. You have a right to communicate with your attorney.
+
+5. Your attorney also handles hundreds of other active cases
+
+There is no specific case limit in Florida ethics rules, but an attorney handling 200+ active Chapter 13 cases while also maintaining new case intake may not have the bandwidth for meaningful individual attention. Ask how many active cases your attorney personally manages.
+
+Document everything. If you observe these patterns, keep a record of every missed communication, every late filing, and every instance where your case was not handled as promised. This documentation is essential if you later file a complaint with the Florida Bar or seek a fee refund.
+
+What to Do Before Filing Chapter 13 in Tampa
+
+Ask about Chapter 7 first. Many filers who end up in Chapter 13 would have been better served by Chapter 7, which provides a faster discharge with no multi-year payment plan. Use the means test calculator to check your eligibility.
+
+Check your discharge eligibility. Under 11 U.S.C. § 1328(f), prior filers face waiting periods before they can receive a Chapter 13 discharge. An attorney who files a case for a client ineligible for discharge is not performing adequate due diligence.
+
+Get a second opinion. If you have already been told that Chapter 13 is your only option, consider consulting with a different attorney - or with Bay Area Legal Services - to confirm that assessment.
+
+Frequently Asked Questions
+
+What is the Chapter 13 success rate in Tampa?
+
+Chapter 13 success rates vary by district and by attorney. Nationally, roughly 33-40% of Chapter 13 cases result in a successful discharge. In the Middle District of Florida (M.D. Fla.), outcomes depend heavily on which attorney handles the case. Some high-volume practitioners have dismissal rates well above the court average, while others maintain rates below it.
+
+How much does Chapter 13 cost in Tampa?
+
+Chapter 13 attorney fees in Tampa typically range from $3,000 to $5,500, paid through the bankruptcy plan over 3-5 years. The court filing fee is $313. Total out-of-pocket depends on your plan terms. Importantly, attorney fees are often paid even when the case is dismissed - meaning the attorney earns their fee regardless of whether you receive a discharge.
+
+Why are Chapter 13 cases dismissed in Tampa?
+
+Common causes include failed plan payments, failure to file required documents, and failure to pay the filing fee. Plan failures can result from genuinely changed circumstances, but they can also result from poorly designed plans that were never realistic. When an attorney files a plan unlikely to succeed, the debtor bears the full cost of failure.
+
+How long does Chapter 13 take in Tampa?
+
+A Chapter 13 plan runs 3 to 5 years. Below-median-income debtors may qualify for a 3-year plan; above-median-income debtors must commit to 5 years. If the case is dismissed before completion, the debtor receives no discharge and may have spent years making payments with no debt relief.
+
+Can I switch from Chapter 13 to Chapter 7 in Tampa?
+
+Yes, conversion from Chapter 13 to Chapter 7 is generally available under 11 U.S.C. § 1307(a) as a matter of right, provided the case was not previously converted from Chapter 7. This can be important if your circumstances change. However, Chapter 7 has its own eligibility requirements including the means test.
+
+About This Data
+
+This site does not identify individual attorneys by name. All information is derived from public federal court records, including the FJC Integrated Database and PACER. This is an educational resource, not legal advice.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII - attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII - debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+Florida Bar
+Florida attorney discipline
+
+Bay Area Legal Services
+Free legal help in Tampa
+
+Bankruptcy Mill Research
+Google Scholar
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+bankruptcymill.org
+automaticstay.org
+meanstest.org
+341meeting.org
+whatischapter7.com
+dischargebar.org
+serialfiler.org
+dismissedbankruptcy.org
+openbankruptcyproject.org
+♥ Sponsor
+GitHub
+
+This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+---
+
+## Chapter 7 Bankruptcy in Tampa: Costs, Timeline and What to Know
+Source: https://tampabankruptcymill.com/chapter-7-tampa.html
+
+Skip to main content
+
+tampabankruptcymill.com
+☰
+
+Home
+Chapter 13 Data
+Chapter 7 Data
+How to Check
+Warning Signs
+Discharge Screener
+Research
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Chapter 7 - M.D. Fla.
+
+Chapter 7 Bankruptcy in Tampa:
+Costs, Timeline, and What to Know
+
+Chapter 7 is the fastest form of consumer bankruptcy, with 90%+ discharge rates and a typical timeline of 3-4 months. Here is what Tampa filers need to know.
+
+Home›Chapter 7 Bankruptcy in Tampa: Costs, Timeline and What to Know | tampabankruptcymill.com›Chapter 7 Bankruptcy in Tampa:Costs, Timeline, and What to Know
+
+Chapter 7 Basics for Tampa Filers
+
+Chapter 7 bankruptcy provides a relatively quick discharge of most unsecured debts - credit cards, medical bills, personal loans - typically within 3 to 4 months of filing. Unlike Chapter 13, there is no multi-year repayment plan. The trade-off is that non-exempt assets may be liquidated, though most consumer filers retain all of their property under applicable exemptions.
+
+Florida's unlimited homestead exemption makes Chapter 7 an attractive option for homeowners. Chapter 7 discharge rates in the Middle District of Florida are consistently strong. The state's lack of income tax means that the means test relies more heavily on actual expense calculations.
+
+Key advantage over Chapter 13: Chapter 7 discharge rates typically exceed 90%. Chapter 13 completion rates are often below 50%. For qualifying filers, Chapter 7 is the faster, cheaper, and far less risky option.
+
+What Chapter 7 Costs in Tampa
+
+The costs of filing Chapter 7 in the Middle District of Florida (M.D. Fla.) include:
+
+Court filing fee: $338
+
+Set by the Judicial Conference. Can be paid in installments or waived for qualifying low-income filers.
+
+Attorney fees: $1,000 - $2,500
+
+Varies by attorney and case complexity. Paid upfront before filing. Get quotes from multiple attorneys and compare.
+
+Credit counseling: $30 - $100
+
+Two required courses (pre-filing and pre-discharge). Many providers offer online courses at the lower end of this range.
+
+Total cost for a typical Tampa Chapter 7 case: $1,400 to $2,900. This is significantly less than the total cost of a Chapter 13 case, which includes higher attorney fees plus years of plan payments.
+
+The Tampa Chapter 7 Timeline
+
+A typical Chapter 7 case in Tampa follows this timeline:
+
+Day 0: Filing
+
+Petition filed with the M.D. Fla.. Automatic stay takes effect immediately, stopping most collection activity.
+
+Days 21-50: 341 Meeting
+
+Meeting of creditors conducted by the Chapter 7 trustee. Typically lasts 5-10 minutes for straightforward consumer cases.
+
+Day 60 after 341: Discharge
+
+If no objections are filed, the discharge order is entered approximately 60 days after the 341 meeting.
+
+Total: 3-4 months
+
+From filing to discharge, most straightforward Chapter 7 cases close within 3 to 4 months.
+
+Do You Qualify? The Means Test
+
+Chapter 7 eligibility is determined by the means test under 11 U.S.C. § 707(b). The test compares your household income to the Florida state median for your family size.
+
+Below median income: You generally qualify for Chapter 7 automatically.
+
+Above median income: A detailed calculation of your disposable income determines whether you can file Chapter 7 or must file Chapter 13 instead.
+
+Beware of steering. Some attorneys recommend Chapter 13 even when the client qualifies for Chapter 7, because Chapter 13 attorney fees are higher and paid through the plan. Always ask whether you qualify for Chapter 7 and, if so, why Chapter 13 is being recommended instead.
+
+Mill Warning Signs in Chapter 7
+
+While bankruptcy mills primarily profit from Chapter 13, Chapter 7 is not immune from quality issues. Watch for these signs in Tampa:
+
+Steering toward Chapter 13. If you qualify for Chapter 7 but your attorney recommends Chapter 13 without a clear, case-specific explanation, that is a red flag.
+
+Template petitions. Your bankruptcy petition should reflect your actual financial situation in detail. If schedules appear to use round numbers or generic expense categories, the petition may not be adequately individualized.
+
+No discussion of exemptions. Florida exemption planning is critical to protecting your assets in Chapter 7. An attorney who does not discuss exemptions in detail may not be providing adequate representation.
+
+Frequently Asked Questions
+
+How much does Chapter 7 bankruptcy cost in Tampa?
+
+The court filing fee for Chapter 7 is $338. Attorney fees in Tampa typically range from $1,000 to $2,500, paid upfront before filing. Total cost including credit counseling ($15-50 for each of two required courses) is typically $1,400 to $2,900.
+
+What is the Chapter 7 discharge rate in Tampa?
+
+Chapter 7 discharge rates are generally above 90% across most federal bankruptcy courts, including the M.D. Fla.. Less than 1% of Chapter 7 cases are typically dismissed. This makes Chapter 7 significantly less risky than Chapter 13 for qualifying filers.
+
+How long does Chapter 7 take in Tampa?
+
+A typical Chapter 7 case takes 3 to 4 months from filing to discharge. The 341 meeting of creditors is held 21-50 days after filing, and the discharge is typically entered about 60 days after the 341 meeting, assuming no objections.
+
+Do I qualify for Chapter 7 in Tampa?
+
+Eligibility depends on the means test under 11 U.S.C. § 707(b). If your household income is below the Florida state median for your family size, you generally qualify. If above median, a detailed calculation of your disposable income determines eligibility. Check your eligibility at meanstest.org.
+
+Can I file Chapter 7 if I already filed bankruptcy before?
+
+You can file Chapter 7 at any time, but you cannot receive a discharge if you received a Chapter 7 discharge within the last 8 years or a Chapter 13 discharge within the last 6 years (11 U.S.C. § 727(a)(8)-(9)). Check your eligibility at 1328f.com.
+
+About This Data
+
+This site does not identify individual attorneys by name. All information is derived from public federal court records. This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII - attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII - debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+Florida Bar
+Florida attorney discipline
+
+Bay Area Legal Services
+Free legal help in Tampa
+
+Bankruptcy Mill Research
+Google Scholar
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+bankruptcymill.org
+automaticstay.org
+meanstest.org
+341meeting.org
+whatischapter7.com
+dischargebar.org
+serialfiler.org
+dismissedbankruptcy.org
+openbankruptcyproject.org
+♥ Sponsor
+GitHub
+
+This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+---
+
+## How to Check Your Tampa Bankruptcy Attorney's Track Record
+Source: https://tampabankruptcymill.com/how-to-check.html
+
+Skip to main content
+
+tampabankruptcymill.com
+☰
+
+Home
+Chapter 13 Data
+Chapter 7 Data
+How to Check
+Warning Signs
+Discharge Screener
+Research
+
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
+
+Attorney Verification - M.D. Fla.
+
+How to Check Your Tampa Bankruptcy
+Attorney's Track Record
+
+Every bankruptcy case is a public record. You have the right - and the tools - to verify your attorney's track record before you sign a retainer agreement.
+
+Home›How to Check Your Tampa Bankruptcy Attorney's Track Record | tampabankruptcymill.com›How to Check Your Tampa BankruptcyAttorney's Track Record
+
+Step 1: Check PACER
+
+PACER (Public Access to Court Electronic Records) is the federal court system's electronic records platform. Every bankruptcy case filed in the Middle District of Florida (M.D. Fla.) is available through PACER.
+
+What to look for:
+
+Search for your attorney by name. Review their case history, focusing on:
+
+Case volume: How many cases do they file per year? Per month?
+
+Dismissal rate: What percentage of their Chapter 13 cases are dismissed?
+
+Case types: Do they file mostly Chapter 13, Chapter 7, or a mix?
+
+Pattern of failures: Do cases fail at the same stages (plan confirmation, payment default)?
+
+PACER costs $0.10 per page (with a $3.00 cap per document). Quarterly fees under $30 are waived. A basic attorney search is inexpensive and provides essential due diligence.
+
+Step 2: Check Bar Standing
+
+Verify that your attorney is licensed and in good standing with the Florida Bar. This free search will show:
+
+Current license status (active, suspended, disbarred)
+
+Any public disciplinary actions
+
+Years of practice and bar admission date
+
+An attorney with a history of professional conduct complaints - even if not formally disciplined - may warrant additional scrutiny.
+
+Step 3: Check Discharge Eligibility
+
+Before hiring any attorney, verify your own eligibility for a discharge. Use the free discharge eligibility screener to check whether prior filings create a bar under 11 U.S.C. § 1328(f) or § 727(a)(8)-(9).
+
+If you are not eligible for a discharge, an ethical attorney should tell you this before accepting your case. An attorney who files a case for a client ineligible for discharge is, at minimum, not performing adequate due diligence.
+
+Step 4: Get a Second Opinion
+
+If anything about your attorney's track record concerns you, consult with a second attorney. Many bankruptcy attorneys offer free initial consultations. You can also contact Bay Area Legal Services for free legal guidance.
+
+Trust your instincts. If your attorney is hard to reach before the case is even filed, communication is unlikely to improve after filing. If they cannot answer basic questions about their dismissal rate or case volume, they may not be tracking their own outcomes.
+
+Step 5: Know Your Rights
+
+As a bankruptcy debtor, you have the right to:
+
+Communicate directly with your attorney (not just staff)
+
+Receive a copy of your complete case file at any time
+
+Be informed of all deadlines and court dates
+
+Substitute counsel by filing a motion with the court
+
+File a complaint with the Florida Bar
+
+Request a fee review by the court under 11 U.S.C. § 329
+
+Frequently Asked Questions
+
+How do I look up a Tampa bankruptcy attorney on PACER?
+
+Go to pacer.gov, select the M.D. Fla., and use the attorney search function. You can search by attorney name to see all cases they have filed. Review the docket entries and case dispositions to understand their track record.
+
+What dismissal rate should I be concerned about?
+
+Context matters, but generally a Chapter 13 dismissal rate significantly above the court average for the M.D. Fla. deserves scrutiny. An attorney whose dismissal rate is 10+ percentage points above the court average may not be providing adequate case management.
+
+How do I file a complaint against a Tampa bankruptcy attorney?
+
+Contact the Florida Bar. You can file a complaint regarding any attorney licensed in Florida. Keep records of all communications, missed deadlines, and other evidence of inadequate representation.
+
+Can I check my attorney's disciplinary history?
+
+Yes. The Florida Bar maintains public records of attorney licensing status and any disciplinary actions. This search is free and available online.
+
+Is there a way to check for free without PACER?
+
+The 1328f.com discharge screener provides district-level data on outcomes. For individual attorney records, PACER is the primary source. Some documents are also available through the RECAP Archive, a free repository of PACER documents.
+
+About This Site
+
+This site does not identify individual attorneys by name. It provides tools and instructions for Tampa area residents to conduct their own due diligence using public records. This is an educational resource, not legal advice.
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+♥ Sponsor
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
+
+11 U.S.C. Section 329
+Cornell LII - attorney fee review
+
+11 U.S.C. Sections 526-528
+Cornell LII - debt relief agency rules
+
+U.S. Trustee Program
+DOJ attorney oversight
+
+CFPB Complaint Tool
+File complaints
+
+Florida Bar
+Florida attorney discipline
+
+Bay Area Legal Services
+Free legal help in Tampa
+
+Bankruptcy Mill Research
+Google Scholar
+
+You May Also Find Helpful
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Section 727(a)(8) Discharge Waiting Period -- 727a8.com
+
+Student Loans in Bankruptcy -- bankruptcystudentloans.org
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Bankruptcy Transparency Network
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+bankruptcymill.org
+automaticstay.org
+meanstest.org
+341meeting.org
+whatischapter7.com
+dischargebar.org
+serialfiler.org
+dismissedbankruptcy.org
+openbankruptcyproject.org
+♥ Sponsor
+GitHub
+
+This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms
+
+---
+
 ## Tampa Bankruptcy Mill: Warning Signs and What the Court Data Shows
 Source: https://tampabankruptcymill.com/
 
@@ -22,9 +559,9 @@ Warning Signs
 Discharge Screener
 Research
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Federal Court Data -- M.D. Fla.
+Federal Court Data - M.D. Fla.
 
 Tampa Bankruptcy Mill:
 Warning Signs and What the Court Data Shows
@@ -33,7 +570,7 @@ An independent, data-driven guide to identifying bankruptcy mill practices in th
 
 What Is a Bankruptcy Mill?
 
-A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal individual attorney attention. The term is not a formal legal designation -- it describes a pattern of practice. Mill attorneys typically handle hundreds of active cases simultaneously, delegate most client contact to non-attorney staff, use template documents with minimal customization, and earn their fees regardless of whether the client's case succeeds or fails.
+A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal individual attorney attention. The term is not a formal legal designation - it describes a pattern of practice. Mill attorneys typically handle hundreds of active cases simultaneously, delegate most client contact to non-attorney staff, use template documents with minimal customization, and earn their fees regardless of whether the client's case succeeds or fails.
 
 The Middle District of Florida is one of the geographically largest bankruptcy districts in the country, covering Tampa, Orlando, Jacksonville, and Fort Myers. The district's consumer bankruptcy docket is driven by Florida's combination of high housing costs, lack of state income tax, and a large population of retirees and service-industry workers.
 
@@ -41,7 +578,7 @@ Why this matters in Tampa: High filing volumes across the I-4 corridor with docu
 
 The Tampa Bankruptcy Landscape
 
-Bankruptcy cases in the Tampa area are filed in the Middle District of Florida (M.D. Fla.). This federal court handles all Chapter 7 and Chapter 13 consumer bankruptcy cases for the district. Understanding the local landscape is essential for anyone considering filing -- or wondering whether their current attorney is providing adequate representation.
+Bankruptcy cases in the Tampa area are filed in the Middle District of Florida (M.D. Fla.). This federal court handles all Chapter 7 and Chapter 13 consumer bankruptcy cases for the district. Understanding the local landscape is essential for anyone considering filing - or wondering whether their current attorney is providing adequate representation.
 
 Tampa's Chapter 13 market, like Miami's, features significant attorney concentration. The Middle District of Florida's multiple divisions create local sub-markets where a small number of firms dominate consumer filings. Dismissal rates across the district vary by division, but the Tampa division has drawn particular attention for high-volume practices.
 
@@ -111,7 +648,7 @@ Warning signs include: difficulty reaching your actual attorney, most communicat
 
 What court handles bankruptcy cases in Tampa?
 
-Bankruptcy cases in the Tampa metropolitan area are filed in the Middle District of Florida (M.D. Fla.). This is a federal court -- bankruptcy is exclusively a federal matter under Title 11 of the United States Code. The court's public records are available through PACER (Public Access to Court Electronic Records).
+Bankruptcy cases in the Tampa metropolitan area are filed in the Middle District of Florida (M.D. Fla.). This is a federal court - bankruptcy is exclusively a federal matter under Title 11 of the United States Code. The court's public records are available through PACER (Public Access to Court Electronic Records).
 
 How can I check a Tampa bankruptcy attorney's track record?
 
@@ -119,7 +656,7 @@ Public court records through PACER contain the outcome of every bankruptcy case.
 
 What should I do if I think my Tampa attorney is a mill?
 
-If you believe your attorney is not providing adequate representation: (1) document specific failures -- missed deadlines, unanswered communications, filing errors; (2) request a copy of your complete case file; (3) consult with another bankruptcy attorney for a second opinion; (4) file a complaint with the Florida Bar if warranted; (5) consider filing a motion to substitute counsel with the court. You have the right to competent representation.
+If you believe your attorney is not providing adequate representation: (1) document specific failures - missed deadlines, unanswered communications, filing errors; (2) request a copy of your complete case file; (3) consult with another bankruptcy attorney for a second opinion; (4) file a complaint with the Florida Bar if warranted; (5) consider filing a motion to substitute counsel with the court. You have the right to competent representation.
 
 Where can I get free legal help in Tampa?
 
@@ -152,10 +689,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -174,7 +711,7 @@ Google Scholar
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -305,537 +842,6 @@ Privacy | Terms
 
 ---
 
-## Chapter 13 Bankruptcy Mills in Tampa: Red Flags and What to Watch For
-Source: https://tampabankruptcymill.com/chapter-13-tampa.html
-
-Skip to main content
-
-tampabankruptcymill.com
-☰
-
-Home
-Chapter 13 Data
-Chapter 7 Data
-How to Check
-Warning Signs
-Discharge Screener
-Research
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Chapter 13 -- M.D. Fla.
-
-Chapter 13 Bankruptcy Mills in Tampa:
-Red Flags and What to Watch For
-
-Chapter 13 is where bankruptcy mills do the most damage. A 3-5 year repayment plan means years of payments, and if the case is dismissed, you walk away with nothing. Here is what to watch for in Tampa.
-
-Why Chapter 13 Is Where Mills Thrive
-
-Chapter 13 bankruptcy requires a debtor to make monthly payments over 3 to 5 years. Attorney fees are typically paid through the plan, meaning the attorney gets paid even if the case is ultimately dismissed. This fee structure creates a perverse incentive: the attorney profits from filing the case, regardless of whether the client ever receives a discharge.
-
-Tampa's Chapter 13 market, like Miami's, features significant attorney concentration. The Middle District of Florida's multiple divisions create local sub-markets where a small number of firms dominate consumer filings. Dismissal rates across the district vary by division, but the Tampa division has drawn particular attention for high-volume practices.
-
-The "filed to fail" pattern: When an attorney files a Chapter 13 plan that is unlikely to succeed, the debtor still pays attorney fees, the attorney still earns their fee, and the client bears the full cost of failure. Identifying this pattern requires comparing individual attorney dismissal rates against the court average.
-
-Chapter 13 Red Flags in Tampa
-
-Based on patterns observed across federal bankruptcy courts, here are specific warning signs that your Tampa Chapter 13 attorney may be operating as a mill:
-
-1. You never met with the attorney before filing
-
-If your initial consultation was entirely with a paralegal or intake coordinator, and the attorney's first involvement was signing the petition, that is a red flag. The attorney has a duty to review your financial situation personally and ensure the filing is appropriate.
-
-2. Your plan was filed with no discussion of terms
-
-A Chapter 13 plan should reflect your specific financial situation -- your income, expenses, debts, and goals. If you were never asked about your monthly expenses, your vehicle needs, your income stability, or your long-term financial goals, the plan may be a template rather than a tailored document.
-
-3. Monthly Operating Reports are late or missing
-
-In some cases, Monthly Operating Reports (MORs) are required. Chronic failure to file MORs is a strong indicator of attorney disengagement. Ask your attorney whether your case requires MORs and whether they are current.
-
-4. You cannot reach your attorney
-
-If your calls go to voicemail, your emails go unanswered for days, and your only contact is with staff members who cannot answer substantive legal questions, your case may not be receiving adequate attention. You have a right to communicate with your attorney.
-
-5. Your attorney also handles hundreds of other active cases
-
-There is no specific case limit in Florida ethics rules, but an attorney handling 200+ active Chapter 13 cases while also maintaining new case intake may not have the bandwidth for meaningful individual attention. Ask how many active cases your attorney personally manages.
-
-Document everything. If you observe these patterns, keep a record of every missed communication, every late filing, and every instance where your case was not handled as promised. This documentation is essential if you later file a complaint with the Florida Bar or seek a fee refund.
-
-What to Do Before Filing Chapter 13 in Tampa
-
-Ask about Chapter 7 first. Many filers who end up in Chapter 13 would have been better served by Chapter 7, which provides a faster discharge with no multi-year payment plan. Use the means test calculator to check your eligibility.
-
-Check your discharge eligibility. Under 11 U.S.C. § 1328(f), prior filers face waiting periods before they can receive a Chapter 13 discharge. An attorney who files a case for a client ineligible for discharge is not performing adequate due diligence.
-
-Get a second opinion. If you have already been told that Chapter 13 is your only option, consider consulting with a different attorney -- or with Bay Area Legal Services -- to confirm that assessment.
-
-Frequently Asked Questions
-
-What is the Chapter 13 success rate in Tampa?
-
-Chapter 13 success rates vary by district and by attorney. Nationally, roughly 33-40% of Chapter 13 cases result in a successful discharge. In the Middle District of Florida (M.D. Fla.), outcomes depend heavily on which attorney handles the case. Some high-volume practitioners have dismissal rates well above the court average, while others maintain rates below it.
-
-How much does Chapter 13 cost in Tampa?
-
-Chapter 13 attorney fees in Tampa typically range from $3,000 to $5,500, paid through the bankruptcy plan over 3-5 years. The court filing fee is $313. Total out-of-pocket depends on your plan terms. Importantly, attorney fees are often paid even when the case is dismissed -- meaning the attorney earns their fee regardless of whether you receive a discharge.
-
-Why are Chapter 13 cases dismissed in Tampa?
-
-Common causes include failed plan payments, failure to file required documents, and failure to pay the filing fee. Plan failures can result from genuinely changed circumstances, but they can also result from poorly designed plans that were never realistic. When an attorney files a plan unlikely to succeed, the debtor bears the full cost of failure.
-
-How long does Chapter 13 take in Tampa?
-
-A Chapter 13 plan runs 3 to 5 years. Below-median-income debtors may qualify for a 3-year plan; above-median-income debtors must commit to 5 years. If the case is dismissed before completion, the debtor receives no discharge and may have spent years making payments with no debt relief.
-
-Can I switch from Chapter 13 to Chapter 7 in Tampa?
-
-Yes, conversion from Chapter 13 to Chapter 7 is generally available under 11 U.S.C. § 1307(a) as a matter of right, provided the case was not previously converted from Chapter 7. This can be important if your circumstances change. However, Chapter 7 has its own eligibility requirements including the means test.
-
-About This Data
-
-This site does not identify individual attorneys by name. All information is derived from public federal court records, including the FJC Integrated Database and PACER. This is an educational resource, not legal advice.
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
-
-11 U.S.C. Section 329
-Cornell LII -- attorney fee review
-
-11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
-
-U.S. Trustee Program
-DOJ attorney oversight
-
-CFPB Complaint Tool
-File complaints
-
-Florida Bar
-Florida attorney discipline
-
-Bay Area Legal Services
-Free legal help in Tampa
-
-Bankruptcy Mill Research
-Google Scholar
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Section 727(a)(8) Discharge Waiting Period -- 727a8.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Real information, no strings.
-
-1328f.com
-1328f.org
-bankruptcymill.org
-automaticstay.org
-meanstest.org
-341meeting.org
-whatischapter7.com
-dischargebar.org
-serialfiler.org
-dismissedbankruptcy.org
-openbankruptcyproject.org
-♥ Sponsor
-GitHub
-
-This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-
----
-
-## Chapter 7 Bankruptcy in Tampa: Costs, Timeline and What to Know
-Source: https://tampabankruptcymill.com/chapter-7-tampa.html
-
-Skip to main content
-
-tampabankruptcymill.com
-☰
-
-Home
-Chapter 13 Data
-Chapter 7 Data
-How to Check
-Warning Signs
-Discharge Screener
-Research
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Chapter 7 -- M.D. Fla.
-
-Chapter 7 Bankruptcy in Tampa:
-Costs, Timeline, and What to Know
-
-Chapter 7 is the fastest form of consumer bankruptcy, with 90%+ discharge rates and a typical timeline of 3-4 months. Here is what Tampa filers need to know.
-
-Chapter 7 Basics for Tampa Filers
-
-Chapter 7 bankruptcy provides a relatively quick discharge of most unsecured debts -- credit cards, medical bills, personal loans -- typically within 3 to 4 months of filing. Unlike Chapter 13, there is no multi-year repayment plan. The trade-off is that non-exempt assets may be liquidated, though most consumer filers retain all of their property under applicable exemptions.
-
-Florida's unlimited homestead exemption makes Chapter 7 an attractive option for homeowners. Chapter 7 discharge rates in the Middle District of Florida are consistently strong. The state's lack of income tax means that the means test relies more heavily on actual expense calculations.
-
-Key advantage over Chapter 13: Chapter 7 discharge rates typically exceed 90%. Chapter 13 completion rates are often below 50%. For qualifying filers, Chapter 7 is the faster, cheaper, and far less risky option.
-
-What Chapter 7 Costs in Tampa
-
-The costs of filing Chapter 7 in the Middle District of Florida (M.D. Fla.) include:
-
-Court filing fee: $338
-
-Set by the Judicial Conference. Can be paid in installments or waived for qualifying low-income filers.
-
-Attorney fees: $1,000 - $2,500
-
-Varies by attorney and case complexity. Paid upfront before filing. Get quotes from multiple attorneys and compare.
-
-Credit counseling: $30 - $100
-
-Two required courses (pre-filing and pre-discharge). Many providers offer online courses at the lower end of this range.
-
-Total cost for a typical Tampa Chapter 7 case: $1,400 to $2,900. This is significantly less than the total cost of a Chapter 13 case, which includes higher attorney fees plus years of plan payments.
-
-The Tampa Chapter 7 Timeline
-
-A typical Chapter 7 case in Tampa follows this timeline:
-
-Day 0: Filing
-
-Petition filed with the M.D. Fla.. Automatic stay takes effect immediately, stopping most collection activity.
-
-Days 21-50: 341 Meeting
-
-Meeting of creditors conducted by the Chapter 7 trustee. Typically lasts 5-10 minutes for straightforward consumer cases.
-
-Day 60 after 341: Discharge
-
-If no objections are filed, the discharge order is entered approximately 60 days after the 341 meeting.
-
-Total: 3-4 months
-
-From filing to discharge, most straightforward Chapter 7 cases close within 3 to 4 months.
-
-Do You Qualify? The Means Test
-
-Chapter 7 eligibility is determined by the means test under 11 U.S.C. § 707(b). The test compares your household income to the Florida state median for your family size.
-
-Below median income: You generally qualify for Chapter 7 automatically.
-
-Above median income: A detailed calculation of your disposable income determines whether you can file Chapter 7 or must file Chapter 13 instead.
-
-Beware of steering. Some attorneys recommend Chapter 13 even when the client qualifies for Chapter 7, because Chapter 13 attorney fees are higher and paid through the plan. Always ask whether you qualify for Chapter 7 and, if so, why Chapter 13 is being recommended instead.
-
-Mill Warning Signs in Chapter 7
-
-While bankruptcy mills primarily profit from Chapter 13, Chapter 7 is not immune from quality issues. Watch for these signs in Tampa:
-
-Steering toward Chapter 13. If you qualify for Chapter 7 but your attorney recommends Chapter 13 without a clear, case-specific explanation, that is a red flag.
-
-Template petitions. Your bankruptcy petition should reflect your actual financial situation in detail. If schedules appear to use round numbers or generic expense categories, the petition may not be adequately individualized.
-
-No discussion of exemptions. Florida exemption planning is critical to protecting your assets in Chapter 7. An attorney who does not discuss exemptions in detail may not be providing adequate representation.
-
-Frequently Asked Questions
-
-How much does Chapter 7 bankruptcy cost in Tampa?
-
-The court filing fee for Chapter 7 is $338. Attorney fees in Tampa typically range from $1,000 to $2,500, paid upfront before filing. Total cost including credit counseling ($15-50 for each of two required courses) is typically $1,400 to $2,900.
-
-What is the Chapter 7 discharge rate in Tampa?
-
-Chapter 7 discharge rates are generally above 90% across most federal bankruptcy courts, including the M.D. Fla.. Less than 1% of Chapter 7 cases are typically dismissed. This makes Chapter 7 significantly less risky than Chapter 13 for qualifying filers.
-
-How long does Chapter 7 take in Tampa?
-
-A typical Chapter 7 case takes 3 to 4 months from filing to discharge. The 341 meeting of creditors is held 21-50 days after filing, and the discharge is typically entered about 60 days after the 341 meeting, assuming no objections.
-
-Do I qualify for Chapter 7 in Tampa?
-
-Eligibility depends on the means test under 11 U.S.C. § 707(b). If your household income is below the Florida state median for your family size, you generally qualify. If above median, a detailed calculation of your disposable income determines eligibility. Check your eligibility at meanstest.org.
-
-Can I file Chapter 7 if I already filed bankruptcy before?
-
-You can file Chapter 7 at any time, but you cannot receive a discharge if you received a Chapter 7 discharge within the last 8 years or a Chapter 13 discharge within the last 6 years (11 U.S.C. § 727(a)(8)-(9)). Check your eligibility at 1328f.com.
-
-About This Data
-
-This site does not identify individual attorneys by name. All information is derived from public federal court records. This is an educational resource, not legal advice. Consult a qualified attorney for your specific situation.
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
-
-11 U.S.C. Section 329
-Cornell LII -- attorney fee review
-
-11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
-
-U.S. Trustee Program
-DOJ attorney oversight
-
-CFPB Complaint Tool
-File complaints
-
-Florida Bar
-Florida attorney discipline
-
-Bay Area Legal Services
-Free legal help in Tampa
-
-Bankruptcy Mill Research
-Google Scholar
-
-You May Also Find Helpful
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Section 727(a)(8) Discharge Waiting Period -- 727a8.com
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Real information, no strings.
-
-1328f.com
-1328f.org
-bankruptcymill.org
-automaticstay.org
-meanstest.org
-341meeting.org
-whatischapter7.com
-dischargebar.org
-serialfiler.org
-dismissedbankruptcy.org
-openbankruptcyproject.org
-♥ Sponsor
-GitHub
-
-This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-
----
-
-## How to Check Your Tampa Bankruptcy Attorney's Track Record
-Source: https://tampabankruptcymill.com/how-to-check.html
-
-Skip to main content
-
-tampabankruptcymill.com
-☰
-
-Home
-Chapter 13 Data
-Chapter 7 Data
-How to Check
-Warning Signs
-Discharge Screener
-Research
-
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
-
-Attorney Verification -- M.D. Fla.
-
-How to Check Your Tampa Bankruptcy
-Attorney's Track Record
-
-Every bankruptcy case is a public record. You have the right -- and the tools -- to verify your attorney's track record before you sign a retainer agreement.
-
-Step 1: Check PACER
-
-PACER (Public Access to Court Electronic Records) is the federal court system's electronic records platform. Every bankruptcy case filed in the Middle District of Florida (M.D. Fla.) is available through PACER.
-
-What to look for:
-
-Search for your attorney by name. Review their case history, focusing on:
-
-Case volume: How many cases do they file per year? Per month?
-
-Dismissal rate: What percentage of their Chapter 13 cases are dismissed?
-
-Case types: Do they file mostly Chapter 13, Chapter 7, or a mix?
-
-Pattern of failures: Do cases fail at the same stages (plan confirmation, payment default)?
-
-PACER costs $0.10 per page (with a $3.00 cap per document). Quarterly fees under $30 are waived. A basic attorney search is inexpensive and provides essential due diligence.
-
-Step 2: Check Bar Standing
-
-Verify that your attorney is licensed and in good standing with the Florida Bar. This free search will show:
-
-Current license status (active, suspended, disbarred)
-
-Any public disciplinary actions
-
-Years of practice and bar admission date
-
-An attorney with a history of professional conduct complaints -- even if not formally disciplined -- may warrant additional scrutiny.
-
-Step 3: Check Discharge Eligibility
-
-Before hiring any attorney, verify your own eligibility for a discharge. Use the free discharge eligibility screener to check whether prior filings create a bar under 11 U.S.C. § 1328(f) or § 727(a)(8)-(9).
-
-If you are not eligible for a discharge, an ethical attorney should tell you this before accepting your case. An attorney who files a case for a client ineligible for discharge is, at minimum, not performing adequate due diligence.
-
-Step 4: Get a Second Opinion
-
-If anything about your attorney's track record concerns you, consult with a second attorney. Many bankruptcy attorneys offer free initial consultations. You can also contact Bay Area Legal Services for free legal guidance.
-
-Trust your instincts. If your attorney is hard to reach before the case is even filed, communication is unlikely to improve after filing. If they cannot answer basic questions about their dismissal rate or case volume, they may not be tracking their own outcomes.
-
-Step 5: Know Your Rights
-
-As a bankruptcy debtor, you have the right to:
-
-Communicate directly with your attorney (not just staff)
-
-Receive a copy of your complete case file at any time
-
-Be informed of all deadlines and court dates
-
-Substitute counsel by filing a motion with the court
-
-File a complaint with the Florida Bar
-
-Request a fee review by the court under 11 U.S.C. § 329
-
-Frequently Asked Questions
-
-How do I look up a Tampa bankruptcy attorney on PACER?
-
-Go to pacer.gov, select the M.D. Fla., and use the attorney search function. You can search by attorney name to see all cases they have filed. Review the docket entries and case dispositions to understand their track record.
-
-What dismissal rate should I be concerned about?
-
-Context matters, but generally a Chapter 13 dismissal rate significantly above the court average for the M.D. Fla. deserves scrutiny. An attorney whose dismissal rate is 10+ percentage points above the court average may not be providing adequate case management.
-
-How do I file a complaint against a Tampa bankruptcy attorney?
-
-Contact the Florida Bar. You can file a complaint regarding any attorney licensed in Florida. Keep records of all communications, missed deadlines, and other evidence of inadequate representation.
-
-Can I check my attorney's disciplinary history?
-
-Yes. The Florida Bar maintains public records of attorney licensing status and any disciplinary actions. This search is free and available online.
-
-Is there a way to check for free without PACER?
-
-The 1328f.com discharge screener provides district-level data on outcomes. For individual attorney records, PACER is the primary source. Some documents are also available through the RECAP Archive, a free repository of PACER documents.
-
-About This Site
-
-This site does not identify individual attorneys by name. It provides tools and instructions for Tampa area residents to conduct their own due diligence using public records. This is an educational resource, not legal advice.
-
-Stay updated on new datasets and research findings
-
-No spam. No marketing. Just data.
-
-Subscribe
-
-This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
-
-♥ Sponsor
-
-Further Reading & Resources
-
-Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
-
-11 U.S.C. Section 329
-Cornell LII -- attorney fee review
-
-11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
-
-U.S. Trustee Program
-DOJ attorney oversight
-
-CFPB Complaint Tool
-File complaints
-
-Florida Bar
-Florida attorney discipline
-
-Bay Area Legal Services
-Free legal help in Tampa
-
-Bankruptcy Mill Research
-Google Scholar
-
-You May Also Find Helpful
-
-Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
-
-Bankruptcy Means Test by State -- bankruptcymeanstest.org
-
-Section 727(a)(8) Discharge Waiting Period -- 727a8.com
-
-Student Loans in Bankruptcy -- bankruptcystudentloans.org
-
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
-
-Part of the Bankruptcy Transparency Network
-
-Real information, no strings.
-
-1328f.com
-1328f.org
-bankruptcymill.org
-automaticstay.org
-meanstest.org
-341meeting.org
-whatischapter7.com
-dischargebar.org
-serialfiler.org
-dismissedbankruptcy.org
-openbankruptcyproject.org
-♥ Sponsor
-GitHub
-
-This site does not identify individual attorneys by name. Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
-A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
-
-Privacy | Terms
-
----
-
 ## 5 Warning Signs of a Bankruptcy Mill in Tampa
 Source: https://tampabankruptcymill.com/warning-signs.html
 
@@ -852,14 +858,16 @@ Warning Signs
 Discharge Screener
 Research
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
-Consumer Protection -- Tampa
+Consumer Protection - Tampa
 
 5 Warning Signs of a Bankruptcy Mill
 in Tampa
 
 Based on patterns documented across federal bankruptcy courts nationwide. If you see these signs at a Tampa bankruptcy firm, proceed with caution.
+
+Home›5 Warning Signs of a Bankruptcy Mill in Tampa | tampabankruptcymill.com›5 Warning Signs of a Bankruptcy Millin Tampa
 
 Warning Sign #1: You Cannot Reach Your Attorney
 
@@ -887,7 +895,7 @@ Warning Sign #4: No Discharge Eligibility Check
 
 Under 11 U.S.C. § 1328(f), prior bankruptcy filers face waiting periods before they can receive a discharge. An attorney who files a case without checking whether the client is eligible for a discharge is not performing basic due diligence.
 
-This is a threshold question. If you are not eligible for a discharge, filing bankruptcy costs you time, money, and a mark on your credit report -- with zero benefit. Ask your attorney directly: "Have you checked whether I am eligible for a discharge under Section 1328(f)?"
+This is a threshold question. If you are not eligible for a discharge, filing bankruptcy costs you time, money, and a mark on your credit report - with zero benefit. Ask your attorney directly: "Have you checked whether I am eligible for a discharge under Section 1328(f)?"
 
 Warning Sign #5: The Attorney Won't Share Their Dismissal Rate
 
@@ -960,10 +968,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -1012,3 +1020,75 @@ This site does not identify individual attorneys by name. Free bankruptcy educat
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms
+
+---
+
+## Privacy Policy - tampabankruptcymill.com
+Source: https://tampabankruptcymill.com/privacy.html
+
+tampabankruptcymill.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
